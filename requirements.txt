@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+requests
+google-generativeai
+beautifulsoup4
+apscheduler
+python-dotenv
+pandas
+psutil
